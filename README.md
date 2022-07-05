@@ -2,7 +2,6 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 ### Fork of [Anasty's Repo](https://github.com/anasty17/mirror-leech-telegram-bot) with Extra Features
 
-# Extra Features implemented by Miss Emily
 
 - HubDrive/Kolop/KatDrive/GaDrive/DriveFire/JioDrive Clone & Count Support
 - DriveBuzz Clone & Count Support
